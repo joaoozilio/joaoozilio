@@ -1,5 +1,16 @@
-## Hi there 👋
+## Seja bem vindo no meu perfil 👋
+Joao Pedro Labrin Ozilio
 
+Sou estudante do "ALURA"
+
+Estou me desenvolvendo na linguagem JavScript
+
+Utilizo esse espaço para compartilhar meus projetos
+
+## Para contato:
+email:
+
+00001104256356sp@al.educacao.sp.gov.br
 <!--
 **joaoozilio/joaoozilio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
